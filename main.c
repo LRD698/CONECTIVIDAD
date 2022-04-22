@@ -10,5 +10,6 @@ int main(){
 	printf("Web Page Design\n");
     printf("Cambio main 4\n");
     printf("Correlation of Concepts and Shapes\n");
+    printf("Color Palette Selection\n");
     return 0;
 }
